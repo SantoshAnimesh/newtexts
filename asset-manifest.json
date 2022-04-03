@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/newtexts/static/js/main.c2dc5783.js",
+    "index.html": "/newtexts/index.html",
+    "main.c2dc5783.js.map": "/newtexts/static/js/main.c2dc5783.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2dc5783.js"
+  ]
+}
